@@ -1,3 +1,10 @@
+# Shiny App sur la classification des étoiles dans le cadre d'un projet ingénieur M2
+# Date du projet : novembre 2022
+# Auteurs : 
+# - Alexandre HOMO alexandre.homo@agrocampus-ouest.fr
+# - Marie JOIGNEAU marie.joigneau@agrocampus-ouest.fr
+# - Marion MOUSSAY marion.moussay@agrocampus-ouest.fr
+
 # Ci-joint notre plan. Les titres sont mis de sorte qu'avec (Top Level) il est simple 
 # ... de naviguer à la partie souhaitée. Les titres sont identiques dans l'UI que dans 
 # ... le SERVER, pour permettre de rapidement faire le lien entre la partie UI et la 
