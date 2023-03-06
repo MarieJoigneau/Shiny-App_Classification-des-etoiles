@@ -13,5 +13,5 @@ Superviseur :
 
 Le code est bien commenté pour les différents scripts composant notre Shiny App.
 
-Si vous avez besoin de plus de renseignement n'hésitez pas à me contacter,
+Si vous avez besoin de plus de renseignement n'hésitez pas à me contacter,  
 Marie
