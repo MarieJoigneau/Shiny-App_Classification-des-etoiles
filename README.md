@@ -11,7 +11,12 @@ Auteurs :
 Superviseur :  
 - Benoît THIEURMEL  
 
+Source des données :  
+https://www.kaggle.com/datasets/deepu1109/star-dataset  
+
 Le code est bien commenté pour les différents scripts composant notre Shiny App.
+
+La partie "classification ascendante hiérarchique" peut prendre un peu de temps avant de se charger complètement.
 
 Si vous avez besoin de plus de renseignement n'hésitez pas à me contacter,  
 Marie
